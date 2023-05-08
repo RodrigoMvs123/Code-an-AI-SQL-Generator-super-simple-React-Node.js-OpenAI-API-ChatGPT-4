@@ -1,0 +1,6 @@
+“type”:”module”
+
+“scripts”: {
+“start:frontend”: “react-scripts start”,
+“start:backend”: “ts-node - - esm index.ts”,
+},
