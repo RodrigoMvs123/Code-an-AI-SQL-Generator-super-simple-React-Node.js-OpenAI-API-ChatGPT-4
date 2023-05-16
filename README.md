@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=mb36Ny-VNgU
 
 https://raw.githubusercontent.com/RodrigoMvs123/Code-an-AI-SQL-Generator-super-simple-React-Node.js-OpenAI-API-ChatGPT-4/main/README.md
 
+https://github.com/RodrigoMvs123/Code-an-AI-SQL-Generator-super-simple-React-Node.js-OpenAI-API-ChatGPT-4/blame/main/README.md
+
 https://www.brydge.dev/
 
 https://openai.com/product
